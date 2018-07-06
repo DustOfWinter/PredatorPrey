@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>PredatorPrey</label>
+	</settings>
+	<users>
+		<user>
+			<path>PredatorPrey.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PredatorPrey.jcp</path>
+		</project>
+	</projects>
+</workspace>
